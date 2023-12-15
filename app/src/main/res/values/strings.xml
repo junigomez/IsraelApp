@@ -1,0 +1,45 @@
+<resources>
+    //IMC APP
+    <string name="app_name">IsraelApp</string>
+    <string name="hombre">HOMBRE</string>
+    <string name="mujer">MUJER</string>
+    <string name="altura">Altura</string>
+    <string name="peso">Peso</string>
+    <string name="edad">edad</string>
+    <string name="calcular">CALCULAR</string>
+    <string name="tu_resultado">TU resultado</string>
+    <string name="re_calcular">RE-CALCULAR</string>
+
+
+    <string name="bajo_peso">BAJO PESO</string>
+    <string name="bajo_peso_descripcion">Estar por debajo de tu peso optimo</string>
+
+    <string name="peso_normal">NORMAL</string>
+    <string name="peso_normal_descripcion">Tu peso es optimo !felicidades¡</string>
+
+    <string name="sobrepeso">SOBREPESO</string>
+    <string name="sobrepeso_descripcion">Estas un poco pasado de kilos !ten cuidado¡</string>
+
+    <string name="obecidad">OBECIDAD</string>
+    <string name="obecidad_descripcion">Ya deja de comer tanto !Cuida tu salud¡</string>
+
+    <string name="error">Error</string>
+    <string name="todo">TODO</string>
+    <string name="saludapp">SaludApp</string>
+    <string name="imcapp">IMCAPP</string>
+
+    // TODO APP
+    <string name="bienvenido"> BIENVENIDO </string>
+    <string name="categorias">CATEGORIAS</string>
+    <string name="tareas">TAREAS</string>
+    <string name="a_ade_la_tarea">Añade la tarea</string>
+    <string name="negocios">Negocios</string>
+    <string name="personal">Personal</string>
+    <string name="otros">Otros</string>
+    <string name="crear_tarea">CREAR TAREA</string>
+    <string name="hola_israel">Hola Israel</string>
+    <string name="inicio">INICIO</string>
+    <string name="tarea">TAREA</string>
+
+
+</resources>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background_todo_app"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+   <Button
+       android:id="@+id/SaludApp"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:backgroundTint="@color/background_card"
+       android:textStyle="bold"
+      android:text="@string/inicio"
+      />
+
+   <Button
+       android:id="@+id/btnIMCApp"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:backgroundTint="@color/background_card"
+       android:textStyle="bold"
+       android:text="@string/imcapp"
+       />
+   <Button
+       android:id="@+id/btnTodo"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:backgroundTint="@color/background_card"
+       android:text="@string/tarea"
+       android:textStyle="bold"
+       />
+
+</LinearLayout>
